@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://nextjs-tailwind-starter.netlify.app/sitemap.xml
