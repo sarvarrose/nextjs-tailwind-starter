@@ -4,6 +4,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
+        <Head />
         <meta charSet="utf-8" />
         <meta
           name="google-site-verification"
@@ -18,7 +19,6 @@ class MyDocument extends Document {
         <link href="/favicon.ico" rel="icon" type="image/x-icon" />
         <link rel="apple-touch-icon" href="/favicon.ico" />
         <link rel="manifest" href="/manifest.json" />
-        <Head />
         <body>
           <Main />
           <NextScript />
