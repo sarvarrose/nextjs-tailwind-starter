@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <meta charSet="utf-8" />
+        <meta name="google-site-verification" content="O4qtv_pMxTclZeLUKIlUhe6iQJ5gaSTknWk8PQZr1Eg" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
